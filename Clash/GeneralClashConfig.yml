@@ -68,16 +68,23 @@ dns:
   enhanced-mode: redir-host
   nameserver:
     - tls://dns.rubyfish.cn:853
-    - https://dns.rubyfish.cn/dns-query
+    - https://doh.360.cn/dns-query
     - 119.29.29.29
-    - 223.5.5.5   
+    - 223.5.5.5
+    - 114.114.114.114
+    - 180.76.76.76 
   fallback:
     - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
     - tls://dns.google:853
     - tcp://8.8.8.8:53
     - tcp://8.8.4.4:53
     - tcp://208.67.222.222:443
     - tcp://208.67.220.220:443
+    - tls://1.0.0.1:853
+    - https://1.1.1.1/dns-query
+    - https://1.0.0.1/dns-query
+    - https://dns.rubyfish.cn/dns-query
 
 #dns:
   #enable: true # 是否启用dns false
