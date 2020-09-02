@@ -1,29 +1,5 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
-# 自增规则
-DOMAIN-SUFFIX,1plus.io
-DOMAIN-KEYWORD,pianyuan
-DOMAIN-SUFFIX,nfmovies.com
-DOMAIN-SUFFIX,donghongzuida.com
-DOMAIN-SUFFIX,heji.ltd
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN-SUFFIX,kkkkwo.com
-DOMAIN-SUFFIX,paofans.net
-DOMAIN-SUFFIX,tzfile.com
-DOMAIN-SUFFIX,1090ys1.com
-DOMAIN-SUFFIX,dmdm2020.com
-DOMAIN-SUFFIX,meijuniao.com
-DOMAIN-SUFFIX,static.bshare.cn
-DOMAIN-SUFFIX,mintehao.com
-DOMAIN-KEYWORD,xigua-cdn
-DOMAIN-KEYWORD,tophub
-DOMAIN-SUFFIX,novipnoad.com
-DOMAIN-SUFFIX,music.ifkdy.com
-DOMAIN-SUFFIX,yacd.haishan.me
-DOMAIN-SUFFIX,clash.razord.top
-DOMAIN-KEYWORD,kuaiyuzb
-DOMAIN-SUFFIX,qunliao.info
-
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 
