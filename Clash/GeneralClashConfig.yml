@@ -69,10 +69,12 @@ dns:
   nameserver:
     - tls://dns.rubyfish.cn:853
     - https://doh.360.cn/dns-query
-    - 119.29.29.29
-    - 223.5.5.5
-    - 114.114.114.114
-    - 180.76.76.76 
+    - https://13800000000.rubyfish.cn/
+    - https://dns.alidns.com/dns-query
+    # - 119.29.29.29
+    # - 223.5.5.5
+    # - 114.114.114.114
+    # - 180.76.76.76 
   fallback:
     - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
