@@ -587,7 +587,7 @@ cfw-bypass:
   - "*.xunlei.com"
   # YYeTs 人人影视
   - "*.got001.com"
-  - "*.jstucdn.com"
+  - "*.p4pfile.com"
   - "*.rrys.tv"
   - "*.rrys2020.com"
   - "*.yyets.com"
@@ -832,7 +832,6 @@ cfw-bypass:
   - "*.smzdm.com"
   - "*.snwx.com"
   - "*.soufunimg.com"
-  - "*.ssl-images-amazon.com"
   - "*.sspai.com"
   - "*.startssl.com"
   - "*.suning.com"
