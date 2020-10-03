@@ -185,7 +185,6 @@ DOMAIN-SUFFIX,appc.baidu.cn
 DOMAIN-SUFFIX,appc.baidu.com
 DOMAIN-SUFFIX,as.baidu.cn
 DOMAIN-SUFFIX,as.baidu.com
-DOMAIN-SUFFIX,ashifen.com
 DOMAIN-SUFFIX,baichuan.baidu.com
 DOMAIN-SUFFIX,baidu9635.com
 DOMAIN-SUFFIX,baidustatic.com
@@ -249,6 +248,7 @@ DOMAIN-SUFFIX,eiv.baidu.cn
 DOMAIN-SUFFIX,eiv.baidu.com
 DOMAIN-SUFFIX,em.baidu.com
 DOMAIN-SUFFIX,ers.baidu.com
+DOMAIN-SUFFIX,f10.baidu.com
 DOMAIN-SUFFIX,fc-.cdn.bcebos.com
 DOMAIN-SUFFIX,fc-feed.cdn.bcebos.com
 DOMAIN-SUFFIX,fclick.baidu.com
@@ -286,6 +286,7 @@ DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mobads.baidu.cn
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mpro.baidu.com
+DOMAIN-SUFFIX,msite.baidu.com
 DOMAIN-SUFFIX,mtj.baidu.cn
 DOMAIN-SUFFIX,mtj.baidu.com
 DOMAIN-SUFFIX,neirong.baidu.com
@@ -319,7 +320,6 @@ DOMAIN-SUFFIX,sclick.baidu.com
 DOMAIN-SUFFIX,sestat.baidu.com
 DOMAIN-SUFFIX,shadu.baidu.com
 DOMAIN-SUFFIX,share.baidu.com
-DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,snippet.pos.baidu.com
 DOMAIN-SUFFIX,sobar.baidu.com
 DOMAIN-SUFFIX,sobartop.baidu.com
@@ -802,7 +802,6 @@ DOMAIN-SUFFIX,locdrop.query.yahoo.com
 DOMAIN-SUFFIX,onepush.query.yahoo.com
 DOMAIN-SUFFIX,p3p.yahoo.com
 DOMAIN-SUFFIX,partnerads.ysm.yahoo.com
-DOMAIN-SUFFIX,uservoice.com
 DOMAIN-SUFFIX,ws.progrss.yahoo.com
 DOMAIN-SUFFIX,yads.yahoo.co.jp
 DOMAIN-SUFFIX,ybp.yahoo.com
