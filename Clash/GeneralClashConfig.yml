@@ -29,7 +29,7 @@ bind-address: "*"
 
 # 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
 # 5 个级别：silent / error / warning / info / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
-log-level: info
+log-level: debug
 
 # Clash 的 RESTful API
 external-controller: '127.0.0.1:9090'
@@ -47,7 +47,7 @@ external-controller: '127.0.0.1:9090'
 
 # 实验性功能
 experimental:
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+  ignore-resolve-fail: false # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
 # 本地 SOCKS5 / HTTP(S) 服务认证
