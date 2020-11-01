@@ -76,16 +76,20 @@ dns:
     - https://233.6.6.6/dns-query
     - https://doh.pub/dns-query
     - https://dns.pub/dns-query
-    - 119.29.29.29
-    - 223.5.5.5
-    - 114.114.114.114
-    - 180.76.76.76 
   fallback:
     - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
     - https://1.1.1.1/dns-query
     - https://1.0.0.1/dns-query
     - https://doh.dns.sb/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://dns.adguard.com/dns-query
+    - https://dns.aa.net.uk/dns-query
+    - https://free.bravedns.com/dns-query
+    - https://dns.switch.ch/dns-query
+    - https://doh.pi-dns.com/dns-query
+    - https://jp.tiar.app/dns-query
+    
 
 #dns:
   #enable: true # 是否启用dns false
