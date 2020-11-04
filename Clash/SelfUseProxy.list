@@ -1,6 +1,7 @@
 # 自用代理规则
 
 DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,dns.weixin.qq.com
