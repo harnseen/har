@@ -22,7 +22,7 @@ allow-lan: true
 # #192.168.122.11: 绑定单个IPv4地址
 # #"[aaaa::a8aa:ff:fe09:57d8]": 绑定单个IPv6地址
 bind-address: "*"
-# ipv6: true
+ipv6: true
 
 # 规则模式：rule（规则） / global（全局代理）/ direct（全局直连）/ script (脚本)
 # mode: rule
@@ -47,7 +47,7 @@ external-controller: '127.0.0.1:9090'
 
 # 实验性功能
 experimental:
-  ignore-resolve-fail: false # 忽略 DNS 解析失败，默认值为 true
+  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
 # 本地 SOCKS5 / HTTP(S) 服务认证
@@ -64,7 +64,7 @@ experimental:
 
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   listen: 0.0.0.0:8053
   enhanced-mode: redir-host
   nameserver:
@@ -82,6 +82,8 @@ dns:
     - 1.2.4.8
     - 223.5.5.5
     - 180.76.76.76
+    - 202.112.20.131
+    - 140.207.198.6
     #- https://doh.360.cn/dns-query
   fallback:
     - https://cloudflare-dns.com/dns-query
