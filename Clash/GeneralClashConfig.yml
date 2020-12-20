@@ -440,6 +440,7 @@ cfw-bypass:
   # Douyu 斗鱼
   - "*.douyu.com"
   - "*.douyu.tv"
+  - "*.douyuscdn.com"
   - "*.douyutv.com"
   # Epic
   - "*.epicgames.com"
