@@ -565,7 +565,6 @@ cfw-bypass:
   - "*.st.dl.bscstorage.net"
   - "*.st.dl.eccdnx.com"
   - "*.st.dl.pinyuncloud.com"
-  - "*.steamcdn-a.akamaihd.net"
   - "*.steamcontent.com"
   - "*.steamgames.com"
   - "*.steampowered.com.8686c.com"
