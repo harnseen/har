@@ -106,10 +106,6 @@ dns:
     - https://doh.li/dns-query
     - https://doh.pi-dns.com/dns-query
     - https://dns.wugui.zone/dns-query
-    - 2001:4860:4860::8888
-    - 2001:4860:4860::8844
-    - 2606:4700:4700::1111
-    
 
 #dns:
   #enable: true # 是否启用dns false
