@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,nex.corp.163.com
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
 DOMAIN-SUFFIX,pagechoice.net
 DOMAIN-SUFFIX,prom.gome.com.cn
-DOMAIN-SUFFIX,push.126.net
 DOMAIN-SUFFIX,qchannel0d.cn
 DOMAIN-SUFFIX,qt002x.corp.youdao.com
 DOMAIN-SUFFIX,rlogs.youdao.com
@@ -919,6 +918,7 @@ DOMAIN-SUFFIX,pb.hd.sohu.com
 DOMAIN-SUFFIX,push.tv.sohu.com
 DOMAIN-SUFFIX,pv.hd.sohu.com
 DOMAIN-SUFFIX,pv.sogou.com
+DOMAIN-SUFFIX,pv.sohu.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,um.hd.sohu.com
 DOMAIN-SUFFIX,uranus.sogou.com
@@ -1064,6 +1064,8 @@ DOMAIN-SUFFIX,808.tianya.cn
 DOMAIN-SUFFIX,808.tianyaui.cn
 DOMAIN-SUFFIX,92x.tumblr.com
 DOMAIN-SUFFIX,a1.itc.cn
+DOMAIN-SUFFIX,ad-channel.wikawika.xyz
+DOMAIN-SUFFIX,ad-display.wikawika.xyz
 DOMAIN-SUFFIX,ad.12306.cn
 DOMAIN-SUFFIX,ad.3.cn
 DOMAIN-SUFFIX,ad.95306.cn
