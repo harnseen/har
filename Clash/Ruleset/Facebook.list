@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fbwat.ch
 DOMAIN-SUFFIX,parse.com
+DOMAIN-SUFFIX,messenger.com
 
 IP-CIDR,173.252.64.0/18,no-resolve
 IP-CIDR,31.13.24.0/21,no-resolve
