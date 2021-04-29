@@ -75,15 +75,19 @@ dns:
     - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
     - https://dns.pub/dns-query
-    - 114.114.114.114
-    - 101.226.4.6
-    - 218.30.118.6
-    - 210.2.4.8
-    - 1.2.4.8
-    - 223.5.5.5
-    - 180.76.76.76
-    - 202.112.20.131
-    - 140.207.198.6
+    - tls://dns.alidns.com:853
+    - tls://dns.pub:853
+    - tls://doh.pub:853
+    - tls://dns.rubyfish.cn:853
+    #- 114.114.114.114
+    #- 101.226.4.6
+    #- 218.30.118.6
+    #- 210.2.4.8
+    #- 1.2.4.8
+    #- 223.5.5.5
+    #- 180.76.76.76
+    #- 202.112.20.131
+    #- 140.207.198.6
     #- https://doh.360.cn/dns-query
   fallback:
     - https://cloudflare-dns.com/dns-query
@@ -106,9 +110,8 @@ dns:
     - https://doh.li/dns-query
     - https://doh.pi-dns.com/dns-query
     - https://dns.wugui.zone/dns-query
-    - 8.8.8.8 # 谷歌DNS
-    - 1.1.1.1 # Cloudflare DNS
-    - tls://dns.rubyfish.cn:853
+    # - 8.8.8.8 # 谷歌DNS
+    # - 1.1.1.1 # Cloudflare DNS
     - tls://1.0.0.1:853
     - tls://dns.google:853
 
