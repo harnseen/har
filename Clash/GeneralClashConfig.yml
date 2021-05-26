@@ -92,24 +92,18 @@ dns:
   fallback:
     - https://cloudflare-dns.com/dns-query
     - https://dns.google/dns-query
-    - https://1.1.1.1/dns-query
+    # - https://1.1.1.1/dns-query
     - https://1.0.0.1/dns-query
     - https://doh.dns.sb/dns-query
     - https://doh.opendns.com/dns-query
     - https://dns.adguard.com/dns-query
-    - https://dns.aa.net.uk/dns-query
     - https://free.bravedns.com/dns-query
     - https://dns.switch.ch/dns-query
-    - https://doh.pi-dns.com/dns-query
     - https://jp.tiar.app/dns-query
     - https://dns-nyc.aaflalo.me/dns-query
     - https://dns.aa.net.uk/dns-query
     - https://doh-jp.blahdns.com/dns-query
-    - https://protected.canadianshield.cira.ca/dns-query
-    - https://dns.containerpi.com/dns-query
     - https://doh.li/dns-query
-    - https://doh.pi-dns.com/dns-query
-    - https://dns.wugui.zone/dns-query
     # - 8.8.8.8 # 谷歌DNS
     # - 1.1.1.1 # Cloudflare DNS
     - tls://1.0.0.1:853
